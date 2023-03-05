@@ -17,3 +17,12 @@
 12. Then create a bucket for the dataset that we are planning to analyse
 13. Once upload copy the data location.
 <img width="945" alt="3  S3 Folder" src="https://user-images.githubusercontent.com/60679528/222948409-380549e2-d6d2-485b-b228-1956b51141b0.PNG">
+14. Run the Script accordingly. 
+
+For Hive start typing Hive in the EMR console. 
+
+MapReduce/Hive SQL.sql
+
+for Spark start typing Pyspark in the EMR console.
+
+Spark/Spark SQL.sql
