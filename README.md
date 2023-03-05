@@ -20,9 +20,8 @@
 14. Run the Script accordingly. 
 
 For Hive start typing Hive in the EMR console. 
-
-MapReduce/Hive SQL.sql
+https://github.com/hasthuka/UoM_MapReduce-vs-Spark/blob/b1525530d08f2870c19ffbc1c7b4b101cebe8b58/MapReduce/Hive%20SQL.sql
 
 for Spark start typing Pyspark in the EMR console.
 
-Spark/Spark SQL.sql
+[Spark/Spark SQL.sql](https://github.com/hasthuka/UoM_MapReduce-vs-Spark/blob/e54ea1628504cd63c204fe8332866ee750930c69/Spark/Spark%20SQL.sql)
